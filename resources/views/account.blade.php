@@ -6,8 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Contacts</h1>
+    <h1>Account</h1>
     <a href="/">Torna alla home</a>
-
 </body>
 </html>

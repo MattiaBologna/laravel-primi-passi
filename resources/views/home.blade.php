@@ -9,6 +9,8 @@
     
     <h1>Hello World!</h1>
     <a href="/contact">contatti</a>
+    <a href="/account">account</a>
+   
 
 </body>
 </html>
